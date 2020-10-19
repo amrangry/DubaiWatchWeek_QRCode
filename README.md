@@ -11,7 +11,7 @@ DubaiWatchWeek_QRCode redirect channel
 
 
 
-###  [Website](adkatech.com/projects/qr/redirect/index.php?tag=y).
+###  [Website](https://www.adkatech.com/projects/qr/redirect/index.php?tag=y).
 
 
 <p align="center">
@@ -20,7 +20,7 @@ DubaiWatchWeek_QRCode redirect channel
 
 
 
-###  [Youtube](adkatech.com/projects/qr/redirect/index.php?tag=y).
+###  [Youtube](https://www.adkatech.com/projects/qr/redirect/index.php?tag=y).
 
 <p align="center">
   <img src ="https://github.com/amrangry/DubaiWatchWeek_QRCode/blob/main/DWW_youtube_bitly.png?raw=true"/>
