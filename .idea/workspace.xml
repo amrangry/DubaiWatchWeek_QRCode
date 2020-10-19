@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd398bc9-58a2-4421-a88a-cd42db69c293" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1j30OrIIv1ZtB6vJHw8p4mzM3xy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd398bc9-58a2-4421-a88a-cd42db69c293" name="Default Changelist" comment="" />
+      <created>1603017439002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603017439002</updated>
+      <workItem from="1603017442688" duration="45000" />
+      <workItem from="1603017582712" duration="695000" />
+      <workItem from="1603018329178" duration="38000" />
+      <workItem from="1603018521816" duration="211000" />
+      <workItem from="1603105478429" duration="634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="207" key="#Deployment" timestamp="1603106125525">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state x="560" y="204" key="#Deployment/0.0.1920.1080@0.0.1920.1080" timestamp="1603105901331" />
+    <state x="560" y="207" key="#Deployment/0.23.1920.973@0.23.1920.973" timestamp="1603106125525" />
+    <state x="784" y="434" key="NewPhpFileDialog" timestamp="1603018303008">
+      <screen x="0" y="23" width="1920" height="972" />
+    </state>
+    <state x="784" y="434" key="NewPhpFileDialog/0.23.1920.972@0.23.1920.972" timestamp="1603018303008" />
+    <state x="636" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1603017443363">
+      <screen x="0" y="23" width="1920" height="972" />
+    </state>
+    <state x="636" y="340" key="com.intellij.ide.util.TipDialog/0.23.1920.972@0.23.1920.972" timestamp="1603017443363" />
+  </component>
+</project>
